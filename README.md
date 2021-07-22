@@ -3,12 +3,15 @@ Repository for the solution to be listed in the call4code 2021
 
 Here there should be explained the base platform
 
-## Warning 1 some components of IBM should be used!!. 
+## Warning 1. Some components of IBM should be used!!. 
 * Specifically 'All Submissions must make use of one or more IBM Cloud services or IBM Systems (using public, private, or hybrid models) to be eligible for Prizes.'
 + Here the [list of services available](https://cloud.ibm.com/catalog/)
-## Warning 2 Maximum 5 participants per team !!
++ In the submission directory are the options available in the submission form
+## Warning 2. Maximum 5 participants per team !!
 
-## Warning 3 The code should be created after the 22nd of March
+## Warning 3. The code should be created after the 22nd of March
+
+## Warning 4. It is required a roadmap of the solution presented
 
 Pending tasks
 * Sign/accept (I do not how we should do this) the [participation agreement](https://callforcode.org/wp-content/uploads/2021/03/2021-Call-for-Code-Participation-Agreement-v.1.0.pdf)
@@ -51,3 +54,6 @@ Fernando Lopez
 Franck Le Gall
 Winner of FIWARE4WATER
 
+## Submission form link
+
+[submission link](https://callforcode.org/submit/)
