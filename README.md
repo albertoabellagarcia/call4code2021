@@ -48,7 +48,7 @@ link to the video
 * List of IBM Cloud Services or IBM Systems used in the solution.
   
 Good question? cloud storage?
-* Team captains will need to provide information on up to four additional team members. Each team member will need to accept the Participation Agreement.
+* Team captains will need to provide information on up to four additional team members. Each team member will need to accept the Participation Agreement. 
 
 Fernando Lopez
 Franck Le Gall
