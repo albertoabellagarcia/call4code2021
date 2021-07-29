@@ -25,54 +25,62 @@ Evaluation criteria
 * Creativity and innovation (5 points)
 
 ## Submission
-* Submission name. 
+1. Submission name. DONE
 
 The name for your solution or team in five words or less.
 
-Suggestion: 'FIWARE4WATER platform for water management' 
+FIWARE4WATER platform for water management 
 
-* Short description. 
+2. Short description. DONE
   
 Describe your team’s solution in 10 words or less.
   
 A curated platform detect of alerts in water management data 
 
-* Long description. 
+3 Long description. IN PROGRESS
   
 FIWARE4WATER is a project which takes as software base the FIWARE platform. FIWARE platform is a curated framework of open source platform components to accelerate the development of Smart Solutions. A market-ready open source software, combining components that enable the connection to IoT with Context Information Management and Big Data services in the Cloud. It uses Standard APIs for data management (standardized by ETSI standardization body ant therefore available worldwide) and exchange, as well as harmonised data models. the [Smart Data Models initiative](https://smartdatamodels.org) provides the data models. This inititative is an open initiative between [FIWARE Foundation](https://fiware.org), [TMForum](https://tmforum.org), [IUDX](https://iudx.org.in) and [OASC](https://oascities.org) and more than 45 organizations have already contributed. The goal of the platform is to allow automation of processes across the entire value chain. An easy plug&play integration with other solutions and services. And to be part of a marketplace of portable and interoperable solutions. It accounts with more than 150 cities, 21 iHubs.
 
 A [specific architecture]() for water services has been developed, and the presented use case is the first which is created by the community without support of any funding entity. the presented case takes the problem that sampling water sources by a laboratory analysis of water is costly and cannot be done frequently. However, sampling certain parameters of water with cheap sensor are more affordable and possible to be done with high frequency (every hour or less). Thus, the system can be trained to detect/prevent out of range values (alerts) due to correlation between the real alerts based on the laboratory analysis and. Additionally, the data models (the parameter's names and its data types) are standardized in a open and agile standardization initiative, the [Smart Data Models initiative](https://smartdatamodels.org). This  allows its free and open reuse beyond the uses with this platform.
 
-* Solution roadmap. 
+* Solution roadmap. DONE
   
 How mature is your submission and where do you intend to take it from here?
 
-The solution has been tested in a real case scenario in the company [XXX CAP milan use case] with a system . The platform is based on FIWARE solutions a software curated by the non-profit FIWARE Foundation. The European Union endorses the core of this software (the context broker) as a building block for cross-country data services.  
-  
-Already tested with actual data coming from CAP demo case
+The solution has been tested in a real case scenario in the company CAP. CAP is a large public company, which owns and manages 60 small to large wastewater treatment plants (WWTPs), serving about 2.5 million people in the peri-urban area of Milan. The WWTPs are often situated in agricultural areas. The solution found was approved by a jury in which members of this organization were present. The solution will enable this company (and any other) to simplify the analysis of the water analysis alarms. The roadmap for sustainability will be the same as other components of the FIWARE platform. It can become a candidate to generic enabler of the FIWARE ecosystem, as long it comply with [the requirements](https://fiware-requirements.readthedocs.io/en/latest/GE_Checklist/index.html). Thus, once approved it becomes part of the FIWARE ecosystem which provides support and dissemination. The creator of the software will hae an easier path to the market with the backup of the large FIWARE community. And it can appear as one solution in the [market place](https://marketplace.fiware.org/). Bear in mind that the core component of the FIWARE platform, the context broker is endorsed by the European Union as one buidling block for cross-country data services.  
 
-* Link to GitHub or another open source code repository such as GitLab or Box. 
+
+* Link to GitHub or another open source code repository such as GitLab or Box. DONE
   
 You can provide additional description and diagrams here. Hint: Review the judging criteria and rules: 2021 Call for Code Global Challenge.
   
 https://github.com/albertoabellagarcia/call4code2021
 
-* Link to a three-minute demo video. Record a demo of your project, upload it to YouTube or Vimeo, and share the URL.
+* Link to a three-minute demo video. Record a demo of your project, upload it to YouTube or Vimeo, and share the URL. PENDING
   
 link to the video
 (Directory /SUBMISSION/VIDEO)
 
-* List of IBM Cloud Services or IBM Systems used in the solution.
+* List of IBM Cloud Services or IBM Systems used in the solution. DONE
   
-Good question? cloud storage?
+MACHINE LEARNING (OPTION AB) 
 
 * Team captains will need to provide information on up to four additional team members. Each team member will need to accept the Participation Agreement. 
 
 Fernando Lopez
+FIWARE Foundation
+
 Benoit Aguilera
+EGM
+
 Marc Ribalta
+EUROCAT
+
 Lautaro Borrovinsky
+
+
 Alberto Abella
+FIWARE Foundation
 
 ## Submission form link
 
