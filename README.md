@@ -24,7 +24,7 @@ Evaluation criteria
 * Design and usability (5 points)
 * Creativity and innovation (5 points)
 
-##Submission
+## Submission
 * Submission name. 
 
 The name for your solution or team in five words or less.
