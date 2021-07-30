@@ -60,12 +60,12 @@ France
 
 Marc Ribalta
 marc.ribalta@eurecat.org
-EUROCAT
+EURECAT
 Spain
 
 Lautaro Borrovinsky
 lautaro.borrovinsky@gmail.com
-Vonage
+AySA
 Israel
 
 Alberto Abella
