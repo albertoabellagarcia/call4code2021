@@ -34,10 +34,10 @@ You can provide additional description and diagrams here. Hint: Review the judgi
   
 https://github.com/albertoabellagarcia/call4code2021
 
-* Link to a three-minute demo video. Record a demo of your project, upload it to YouTube or Vimeo, and share the URL. PENDING
+* Link to a three-minute demo video. Record a demo of your project, upload it to YouTube or Vimeo, and share the URL.
   
 link to the video
-(Directory /SUBMISSION/VIDEO)
+
 
 * List of IBM Cloud Services or IBM Systems used in the solution. DONE
   
